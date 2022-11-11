@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/100DaysOfFilanTechCode.iml" filepath="$PROJECT_DIR$/.idea/100DaysOfFilanTechCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA JAVA Bootcamp/lessons/IdeaProjects/IdeaProjects.iml" filepath="$PROJECT_DIR$/DSA JAVA Bootcamp/lessons/IdeaProjects/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA JAVA Bootcamp/lessons/IdeaProjects/frist-idea-program/frist-idea-program.iml" filepath="$PROJECT_DIR$/DSA JAVA Bootcamp/lessons/IdeaProjects/frist-idea-program/frist-idea-program.iml" />
+    </modules>
+  </component>
+</project>
