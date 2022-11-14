@@ -1,0 +1,63 @@
+	========> Arrays <========
+1. waa maxay array?
+   * Array waa shay weel(container) oo haya tiro go'an oo qiimayaal ah oo hal nooc ah.
+	means: array 1 kii mar waxay keydin kartaa one data type only.
+2. syntax of array:
+   ---------------
+	datatype[] variable_name = new datatype [size].
+
+ ==> example= int rollnum = new int [5].
+	==> int[] rollnum; // this is declaration of array. rollnum is getting defined in the stack.
+==> rollnum = new int [5]; // initialisation : actuallay here object is being created in te memory (heap).
+==>  array objects marka lajoogo java continuos maha.
+3. index of an Array?
+	index = waa booska uu elementigu uu kaga jiro array-ga , yacnii elementiga 1aad waxa uu qaadanayaa index 0, kan labaadna index1 kan seddexaadna index2.....
+	markasta last element waxaa lagu heli karaa: (size - 1).
+4. ==> what is null in java?
+	waa keyword literal value ah, waxayna muujinaysaa in objectiga uusan xiganayn waxba.
+	haddaan si kale u dhigo waa special value kaasoo ay qadan karaan primitive data types.
+	---------------
+	for example you can do:
+	* string num = null;
+	but you can not do this
+	* int num = null;  // this will show an error.
+5. 		Data Types in Java
+	================================
+====> * Primitive Data Types
+        ____________________.
+	1. integers
+		a. byte
+		b. short
+		c. int
+		d. long
+	2. Floating point.
+		a. float
+		b. double
+	3. Character.
+	4. Boolen.
+	_____________________________________________
+	Note : Primitives are stored in stack memory.
+	---------------------------------------------
+====> * Non Primitive Data Types
+        ________________________.
+	1. string
+	2. Array
+	3. List
+	4. Set
+	5. Stack
+	6. Vector
+	7. Dictionary
+	8. All user defined classes
+	etc
+	_____________________________________________________________________
+	Note : Non Primitives are objects so they are stored in Heap memory.
+	---------------------------------------------------------------------
+ * F.G==> qaybtani si toos ah looguma qeexin cashirka maanta balse in badan ayay muhim u ahayd fahamka cashirka.
+6. ==> Arrays are mutable in java.
+	mutable means objectiga wad badali kartaa.
+7. Multi dimension array : Array of arrays  (array sida array kale.)
+	==> marka inta la joogo index walba waxaa uu u taagan yahay array.
+
+8. Array list: waa array resizable ah oo micnaheedu yaahy array size keeda wax laga badali karo (waxna lagu dari karo waxna laga dhimi karo) waqti walba.
+	==> syntax
+        ArrayList<Integer> list = new ArrayList <>();

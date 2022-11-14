@@ -1,0 +1,38 @@
+DdAY 6
+
+
+
+=> Day 6 Summary <=
+	===================
+	mainly cashirku waxa uu diiradda saaray OOP.
+1. waa maxay OOP?
+	-> waa in la abuuro object kaasoo ka koobnaan kara data iyo method.
+2. why we need OOP?
+	-> waxay kuu sahlaysaa in code kaaga nodqo mid fudud oo aan lahayn repeat ama soo noqnoqod fara badan.
+
+	OOP marka lajoogo waxaa muhim ah in la ogaado labo shey : => Class , => object.
+3. what is class?
+	- class is a group of variables, constructors, methods, blocks etc.
+	marka aan class abuurayno waxaan adeegsnaynaa keyword "calass" kadina waxa la raaciya magaca classka u yeelanayo.
+	=> syntax:
+	class ClassName
+  	 {
+      	    // variables, constructors,
+           // method declarations
+   	 } .
+	=>
+==> class waa templete of an object.
+==> object is an instance of class .
+==> calss is logical construct. while object is phycial reality.
+	object waxa uu qaataa space in memory.
+==> what is instance variable.
+	- variable inside the object.
+==> si aan u abuurno object waxaan adeegsanaynaa keyword "new".
+==> objects ka waxaa ukala baxaan 3 qayb:
+	- state
+	- identity
+	- behavior.
+==> instance variable: waa variable ku dhex jira objectiga.
+==> dot operator: waxay waxay isku xireysa magaca objectiga iyo variableska ku dehx jra objectigaas.
+==> A constructor waxa uu qeexayaa wxayaabaha dhacaya markii objecti classka ka tirsan la abuuro.
+==> this keyword: marka aan rano inaan soo access gareno object classka ka tirsan waxaan u baahan nahay inaan istcimaalo "this" keyword.

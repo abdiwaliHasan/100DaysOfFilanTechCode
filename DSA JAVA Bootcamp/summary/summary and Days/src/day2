@@ -1,0 +1,31 @@
+casharka day 2 waan dawaday concepts ficana wan ka haystaa waxana ka mid ah
+
+---------------------------------------------------------------------------
+platform independent = byte code waxuu ku run gareysmi karaa operational system kasta
+
+waxan ubaahannahay in source codeka loobadalo machine code si computer uu ufahmo
+compilerka waxuu kaa caawinaayaa in loobadalo codeka midshaqeynaya
+executable code = waa urur amaro ah oo computerka lasiiyo
+java waaa platform  independent lkn java vartual machine waa dependent
+
+jdk = java development kit =  waxey ku siineysaa environment aa ku develop gareyn laheyd kuna run gareyn lehed programkaaga javada
+
+jre = java run time environmrnt = waa installgareenta package kaas oo ku siinaaya environment aa kiliya ku run gareynkarto programkaaga
+
+qodoboda ugu caansan ee aan ku bartay waxaa kamid ah :
+>>primitive data Types in java :
+ ineger
+ character
+ float
+ double
+ long
+ booelan
+coments waxaa loo adeegsadaa in codeka explanation laga biyo ama in codeka la egnore gareyo ama loo diido in la run gareey.
+>condition ka oo ah in xaalad lagu xiro anagoo adeegsanayna :
+ ..if-if-else-else
+>loop oo ah
+Loops in Java waxaa loo isticmaalo in lagu fuliyo qayb gaar ah oo programka ka mid ah si isdaba joog ah haddii xaalad la siiyay ay qiimayso inay true tahay.
+marka la samaynayno loopska waxa la adeegsan karaa
+..for loop:waxaan  isticmaali karnaa marka tirada soo noqnoqto ama ay xadidantahay ama la yaqaano.
+..while loop: waxaa la adeegsada aydana marka aan la ogeyn inta jeer  uu loopku soconayo.
+.do while loop.

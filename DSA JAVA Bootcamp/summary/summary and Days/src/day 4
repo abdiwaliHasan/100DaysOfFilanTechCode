@@ -1,0 +1,47 @@
+day 4 waxa looga hadlaa
+	 >Switch.
+	>Function or Method.
+Qaybta hore waxa looga hadlaa
+> Switch
+waa maxay switch?
+> switch waa in la execute gareeyo qayb ama block kamid ah code kaaga iyadoo lagu base gareynayo expressionka .
+
+   > syntax of switch
+	switch (exression) {
+	  // cases
+	     case One:
+		//do something
+		break;
+	     case two:
+		//do something
+		break;
+	     default:
+		//do something
+	}
+==> Break : wuxuu kala xiraa cases-ka ama xaaladaha , si marwalba xaaladda la codsado keliya loo soo daabaco.
+==> Defaul waxay shaqaysaa marka ay dhammaan caseska ay noqdaan false.
+	waxaa marwalba la dhigaa qaybta ugu dambeysa sidaa darteed break lama raaciyo iyada.
+	haddii lacalla ay dhici waydo qaybta gadaale markaas waxay qaadanaysaa break.
+==> Nasted Switch : case ku si dhex jira case kale . (ama xaalad ku xiran xaalad kale).
+Qaybta 2aad.
+
+waxaa looga hadlay
+>  Method
+
+> Mehod: waa qayb code ah waxaad qoranaysaa 1 jeer si aad dhowr jeer oo kale u isticmaasho adigoo dib u soo qorin intii hore . waxaadna samaynaysaa "calling" oo micnaheedu yahay inaad wacato methodkii aad soo qortay .
+> Parameters: waa data ama xogta loo baaso Methodka.
+
+	syntax of Method:
+	return_type method_name(parameters list)
+	{
+    	   // body of the method
+	   return value; [optional]
+	}
+==> Return statement: waxay kuu soo celisaa qiimaha soo baxa markii block la execute gareeyo.
+==> Scope : waa uu sheegayaa baaxadda uu variablekaaga awoodda u leeyahay in laga access gareeyo.
+==> Swap : waa in laba valiable qiimayaashooda la isku badalo.
+==> Shadowing: waxaa uu dhacaa marka aad variable ku declere  gareyso scope cayiman kadibna scopekaas gudihiisa aad ku abuurato variable kale ka dibna siiso isla magicii aad kii hore siisey, markaas oo kale waxaa la samaynayaa shadowing oo waxaa la hakinayaa kii hore waxaana la soo daabicayaa kan dambe.
+==> Variable Arguments (varArgs): waa method qaata tiro aan dhamaad lahay oo arguments ah.
+	waxaan isticmaalaynaa marka aan la garanayn inta argument aan input ahaan u siineyno methodka.
+==> Function over loading: laba function oo leh 1 magac marka la rabo in mid kamid ah la call gareeyo. waxaa la hubinayaa haddii ay ku kala duwan yihiin parameters ka kadibna waxaa la wici dona function ka aqbala barameterkaas.
+haddii laba function ay ka siman yihiin magaca parametreka lama midna ma shaqayn doono waayo lama yaqano.
